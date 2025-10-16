@@ -4,7 +4,7 @@ setwd("./Codes/")
 source('networkson_change.R')
 
 top_quantile=0.99 
-num_nodes=10 
+num_nodes=20 
 transitivity=0.6 
 exp_th=2
 
