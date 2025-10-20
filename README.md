@@ -1,6 +1,6 @@
 # NetMedicine
 
-A lightweight, reproducible pipeline for network-based target discovery and transcriptome-guided drug prioritization in pancreatic ductal adenocarcinoma (PDAC).
+A reproducible pipeline for network-based target discovery and transcriptome-guided drug prioritization in pancreatic ductal adenocarcinoma (PDAC).
 
 What this repository contains
 
