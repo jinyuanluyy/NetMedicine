@@ -10,6 +10,8 @@ code/02. Network centrality analysis and …/ – Prioritize targets with multi-
 
 code/03.drug discovery/ – Construct gene-centered disease signatures and run LINCS/L1000 connectivity mapping to rank candidate compounds.
 
+Data availability
+All datasets used in this repository were downloaded from publicly available databases, including CPTAC, TCGA, and GEO.
 
 Citation
 
